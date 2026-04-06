@@ -1,0 +1,1 @@
+Tengo todos los derechos que quiero, no me pidai nada
