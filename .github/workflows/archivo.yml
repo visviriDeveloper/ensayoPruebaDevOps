@@ -1,0 +1,11 @@
+name: hola
+
+  on:[push]
+  
+
+  jobs:
+  saludar:
+    runs-on: ubuntu-latest
+    steps:
+    - name: paso 1
+      run: echo "¡Hola Mundo!"
